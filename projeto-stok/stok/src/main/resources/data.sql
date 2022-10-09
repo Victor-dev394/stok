@@ -1,0 +1,2 @@
+INSERT INTO produto(nome, descricao, data_cadastro, fornecedor, categoria) VALUES('Celular Moto G 11', 'muito bom', '2019-05-05', 'Motorolla', 'ELETRONICOS');
+INSERT INTO produto(nome, descricao, data_cadastro, fornecedor, categoria) VALUES('Sofa', 'Sofa branco bonito', '2020-01-06', 'Ortobom', 'MOVEIS');
